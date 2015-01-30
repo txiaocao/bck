@@ -1,5 +1,5 @@
 <header>
-			<h2>bck · mk</h2>
+			<h2>bck</h2>
 			<h3>browsercheck 浏览器选择器</h3>
 		</header>
 		<div class="content">
